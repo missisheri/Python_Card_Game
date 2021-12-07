@@ -19,3 +19,5 @@ The Rules of the 'Liar Card Game':
 <img width="450" alt="Option b- computer lied" src="https://user-images.githubusercontent.com/94755124/145059884-f8dcabf7-85cd-42eb-9685-2ec9fb85b77c.PNG">
 # Test: Player calls a lie and gets it wrong (computer's played card(s) added to the user's cards)
 <img width="459" alt="Option b- wrong guess" src="https://user-images.githubusercontent.com/94755124/145060095-e4a110ad-512a-4a37-9974-3c90819f2aed.PNG">
+# Test: First player with no remaining card wins
+<img width="450" alt="User wins with no remaining card" src="https://user-images.githubusercontent.com/94755124/145060734-15302f2d-f3ce-4e9c-bb5a-2561fc123154.PNG">
