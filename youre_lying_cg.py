@@ -30,9 +30,9 @@ comp_num = randint(1, 10)
 user_num = randint(1, 10)
 if comp_num > user_num:  # the player with the highest number plays first
     print("\nComputer's turn to play")
-    comp_hand = comp_turn(comp_cards, comp_hand, comp_played)
     # keep playing until no cards or (add user quits)
     while comp_cards and user_cards:
+        comp_hand = comp_turn(comp_cards, comp_hand, comp_played)
         # add following code to when user starts playing first
         options()
         option = input("Choose between options a, b, and c: ").lower()
