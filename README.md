@@ -11,5 +11,7 @@ The Rules of the 'Liar Card Game':
      
  The code is still being refined.
 
-# Test: Player calls for a lie and gets it right
+# Test: Option a and valid card played 
 <img width="450" alt="Option a with right choice for user hand" src="https://user-images.githubusercontent.com/94755124/145058710-58660a43-1a52-4698-a631-1298476d9b62.PNG">
+# Test: Player picks Option a and invalid card played
+<img width="452" alt="Option a with wrong choice for user hand" src="https://user-images.githubusercontent.com/94755124/145059023-dc7aecdb-12b7-484a-9ff1-2b0cfe7e80d8.PNG">
